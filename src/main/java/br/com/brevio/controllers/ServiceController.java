@@ -1,4 +1,4 @@
-package br.com.bradesco.controllers;
+package br.com.brevio.controllers;
 
 import java.io.File;
 import java.io.FileOutputStream;
@@ -13,11 +13,10 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-
-import br.com.bradesco.models.PdfResponse;
-import br.com.bradesco.models.PdfResquest;
-import br.com.bradesco.properties.Props;
-import br.com.bradesco.services.PDFUtil;
+import br.com.brevio.models.PdfResponse;
+import br.com.brevio.models.PdfResquest;
+import br.com.brevio.properties.Props;
+import br.com.brevio.services.PDFUtil;
 
 @RestController
 @RequestMapping("services")

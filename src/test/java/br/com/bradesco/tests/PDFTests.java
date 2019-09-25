@@ -9,7 +9,7 @@ import org.junit.Before;
 import org.junit.Ignore;
 import org.junit.Test;
 
-import br.com.bradesco.services.PDFUtil;
+import br.com.brevio.services.PDFUtil;
 
 public class PDFTests {
 	

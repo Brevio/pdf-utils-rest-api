@@ -1,4 +1,4 @@
-package br.com.bradesco.models;
+package br.com.brevio.models;
 
 public class PdfResponse extends ServiceResponse{
 	

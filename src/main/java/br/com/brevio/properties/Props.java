@@ -1,4 +1,4 @@
-package br.com.bradesco.properties;
+package br.com.brevio.properties;
 
 import java.io.File;
 import java.io.FileInputStream;

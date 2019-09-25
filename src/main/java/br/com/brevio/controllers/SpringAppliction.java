@@ -1,4 +1,4 @@
-package br.com.bradesco.controllers;
+package br.com.brevio.controllers;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
